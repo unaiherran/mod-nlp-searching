@@ -9,6 +9,8 @@ Por claridad propia, he incluido en este repositorio cuadernos independientes pa
   1. Sentiment Analysis con Redes Neuronales (falta LSTM)
   1. Conclusiones (Falta)
   
+
 2. Analisis de temas de Tweets de Obama y Trump
+
 3. Generación de Tweets como Obama. Language Modellingh
 

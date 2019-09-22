@@ -12,5 +12,6 @@ Por claridad propia, he incluido en este repositorio cuadernos independientes pa
 
 2. Analisis de temas de Tweets de Obama y Trump
 
-3. Generación de Tweets como Obama. Language Modelling *falta subir la version entrenada*
+3. Generación de Tweets como Obama. (Language Modelling)[https://colab.research.google.com/drive/1N7P3CHWqJuDAPf5UZUNfMctu5ppHoOoR] *falta subir la version entrenada*
 
+https://colab.research.google.com/drive/1N7P3CHWqJuDAPf5UZUNfMctu5ppHoOoR

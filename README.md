@@ -6,11 +6,11 @@ Por claridad propia, he incluido en este repositorio cuadernos independientes pa
 
 1. Sentiment Analisys
      1. Sentiment Analisys con ML
-     2. Sentiment Analysis con Redes Neuronales (falta LSTM)
-     3. Conclusiones (Falta)
+     2. Sentiment Analysis con Redes Neuronales *(falta LSTM)*
+     3. Conclusiones *(Falta)*
   
 
 2. Analisis de temas de Tweets de Obama y Trump
 
-3. Generación de Tweets como Obama. Language Modellingh
+3. Generación de Tweets como Obama. Language Modelling *falta subir la version entrenada*
 

@@ -1,12 +1,14 @@
 # mod-nlp-searching
 
-El objetivo de esta practica es:
+El objetivo de esta práctica es mostrar ditintos ejemplos de ML y Deep Learning aplicado a NLP.
 
-bla, bla, bla
+Por claridad propia, he incluido en este repositorio cuadernos independientes para cada una de las secciones. Aunque todos los cuadernos están en el repositorio, así como varios directorios de datasets, data, unos cuantos se han hecho en Google Colab. Para esos cuadernos se presenta un link a continuacion
 
+1. Sentiment Analisys
+  1. Sentiment Analisys con ML
+  1. Sentiment Analysis con Redes Neuronales (falta LSTM)
+  1. Conclusiones (Falta)
+  
+2. Analisis de temas de Tweets de Obama y Trump
+3. Generación de Tweets como Obama. Language Modellingh
 
-, uno de clasificación y otro de regresión para los conjuntos de datos `./data/census_train.csv` y `./data/diamonds_train.csv`, respectivamente.
-
-Una vez obtenidos los modelos los aplicamos a los datos de `./data/census_test.csv` y `./data/diamonds_test.csv` y obtenemos los archivos `./data/census_pred.csv` y `./data/diamonds_pred.csv.
-
-La explicación de como se desarrollan los modelos estan en sendos cuadernos `census_clasificacion.ipynb` y `diamonds_regresion.ipynb`.

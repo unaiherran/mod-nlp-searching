@@ -1,0 +1,21 @@
+,Modelo,parametros-optimos,train,test,confusion_matrix,acc_sen_esp_ppv_fsc
+5,SVM - Small Dataset,"{'svm__C': 5.994842503189409, 'svm__gamma': 0.01, 'vect__analyzer': 'word', 'vect__max_df': 1.0, 'vect__ngram_range': (1, 2), 'vect__stop_words': None}",0.716,0.733,"[[ 799  507]
+ [ 294 1400]]","[0.733, 0.8264462809917356, 0.611791730474732, 0.7341373885684321, 0.7775617883921133]"
+6,Bayes - Small Dataset,"{'vect__analyzer': 'char', 'vect__max_df': 1.0, 'vect__ngram_range': (1, 4), 'vect__stop_words': 'english'}",0.7170000000000001,0.7223333333333334,"[[ 909  397]
+ [ 436 1258]]","[0.7223333333333334, 0.7426210153482881, 0.6960183767228177, 0.7601208459214501, 0.751269035532995]"
+7,Decision Tree - Small Dataset,"{'tree__max_depth': 19, 'vect__analyzer': 'word', 'vect__max_df': 1.0, 'vect__ngram_range': (1, 4), 'vect__stop_words': 'english'}",0.6532857142857142,0.6496666666666666,"[[ 479  827]
+ [ 224 1470]]","[0.6496666666666666, 0.8677685950413223, 0.3667687595712098, 0.6399651719634306, 0.736657479328489]"
+8,Random Forestyes - Small Dataset,"{'forest__max_depth': 23, 'vect__analyzer': 'char_wb', 'vect__max_df': 1.0, 'vect__ngram_range': (1, 4), 'vect__stop_words': 'english'}",0.6688571428571428,0.665,"[[ 630  676]
+ [ 329 1365]]","[0.665, 0.8057851239669421, 0.48238897396630936, 0.6687898089171974, 0.7309236947791165]"
+9,Boosted Tree - Small Dataset,"{'boosted__learning_rate': 0.1, 'boosted__max_depth': 7, 'boosted__n_estimators': 300, 'vect__analyzer': 'char_wb', 'vect__max_df': 0.5, 'vect__ngram_range': (1, 4), 'vect__stop_words': None}",0.7148571428571429,0.7286666666666667,"[[ 784  522]
+ [ 292 1402]]","[0.7286666666666667, 0.8276269185360094, 0.6003062787136294, 0.7286902286902287, 0.7750138197899391]"
+4,Bayes - Lemma - Small Dataset,"{'vect__analyzer': 'word', 'vect__max_df': 0.5, 'vect__ngram_range': (1, 4), 'vect__stop_words': None}",0.6866695242177454,0.6903333333333334,"[[ 704  602]
+ [ 327 1367]]","[0.6903333333333334, 0.806965761511216, 0.5390505359877489, 0.6942610462163534, 0.7463827463827463]"
+3,Decision Tree - Lemma - Small Dataset,"{'tree__max_depth': 19, 'vect__analyzer': 'word', 'vect__max_df': 0.5, 'vect__ngram_range': (1, 3), 'vect__stop_words': None}",0.6502357479639949,0.6473333333333333,"[[ 362  944]
+ [ 114 1580]]","[0.6473333333333333, 0.9327036599763873, 0.2771822358346095, 0.6259904912836767, 0.7491702228544334]"
+2,Random Forestyes - Lemma - Small Dataset,"{'forest__max_depth': 28, 'vect__analyzer': 'char_wb', 'vect__max_df': 0.5, 'vect__ngram_range': (1, 4), 'vect__stop_words': None}",0.6602371767395342,0.6646666666666666,"[[ 562  744]
+ [ 262 1432]]","[0.6646666666666666, 0.8453364817001181, 0.43032159264931086, 0.6580882352941176, 0.7400516795865633]"
+1,Boosted Tree - Lemma - Small Dataset,"{'boosted__learning_rate': 0.1, 'boosted__max_depth': 7, 'boosted__n_estimators': 300, 'vect__analyzer': 'char_wb', 'vect__max_df': 1.0, 'vect__ngram_range': (1, 4), 'vect__stop_words': None}",0.686955279325618,0.7013333333333334,"[[ 692  614]
+ [ 282 1412]]","[0.7013333333333334, 0.833530106257379, 0.5298621745788668, 0.6969397828232972, 0.7591397849462366]"
+0,SVM - Lemma - Small Dataset,"{'svm__C': 1.0, 'svm__gamma': 0.03162277660168379, 'vect__analyzer': 'word', 'vect__max_df': 0.5, 'vect__ngram_range': (1, 2)}",0.6655236462351765,0.685,"[[ 508  798]
+ [ 147 1547]]","[0.685, 0.9132231404958677, 0.3889739663093415, 0.6597014925373135, 0.7660311958405546]"

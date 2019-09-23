@@ -2,7 +2,11 @@
 
 El objetivo de esta práctica es mostrar ditintos ejemplos de ML y Deep Learning aplicado a NLP.
 
-Por claridad propia, he incluido en este repositorio cuadernos independientes para cada una de las secciones. Aunque todos los cuadernos están en el repositorio, así como varios directorios de datasets, data, unos cuantos se han hecho en Google Colab. Para esos cuadernos se presenta un link a continuacion:
+Por claridad propia, he incluido en este repositorio cuadernos independientes para cada una de las secciones. 
+
+Aunque todos los cuadernos están en el repositorio, (así como varios directorios de datasets, resultados...) He hecho varios en Google Colab, por no tener las librerias necearias instaladas en mi maquina local, o porque tardaba mucho
+
+Para esos cuadernos, hay un link .
 
 1. Sentiment Analisys
      1. Sentiment Analisys con ML

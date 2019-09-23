@@ -4,9 +4,9 @@ El objetivo de esta práctica es mostrar ditintos ejemplos de ML y Deep Learning
 
 Por claridad propia, he incluido en este repositorio cuadernos independientes para cada una de las secciones. 
 
-Aunque todos los cuadernos están en el repositorio, (así como varios directorios de datasets, resultados...) He hecho varios en Google Colab, por no tener las librerias necearias instaladas en mi maquina local, o porque tardaba mucho
+Aunque todos los cuadernos están en el repositorio (así como varios directorios de datasets, resultados...), he hecho varios en Google Colab, por no tener las librerias necearias instaladas en mi maquina local, porque tardaba mucho o porque mientras mi máquina entrenaba un modelo en local, seguía trabajando en remoto con el Colab. 
 
-Para esos cuadernos, hay un link .
+En cualquier caso, para los cuadernos hechos en Colab, incluyo un link a dichos cuadernos. 
 
 1. Sentiment Analisys
      1. Sentiment Analisys con ML

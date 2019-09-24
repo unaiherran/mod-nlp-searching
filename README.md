@@ -10,9 +10,9 @@ En cualquier caso, para los cuadernos hechos en Colab, incluyo un link a dichos 
 
 1. Sentiment Analisys
      1. Sentiment Analisys con ML
-     2. Sentiment Analysis con [Redes Neuronales](https://colab.research.google.com/drive/19gf5vW9rC1dcSE0t-IMU4xJsUQTiMXxF) *(falta LSTM)*
+     2. [Sentiment Analysis con Redes Neuronales](https://colab.research.google.com/drive/19gf5vW9rC1dcSE0t-IMU4xJsUQTiMXxF) 
      3. Conclusiones   
 
-2. Analisis de [temas de Tweets de Obama y Trump](https://colab.research.google.com/drive/1rN-slueM1IzgQkmflEEuePxPPqgRwNdD)
+2. [Analisis de temas de Tweets de Obama y Trump](https://colab.research.google.com/drive/1rN-slueM1IzgQkmflEEuePxPPqgRwNdD)
 
-3. Generación de Tweets como Obama. [Language Modelling](https://colab.research.google.com/drive/1N7P3CHWqJuDAPf5UZUNfMctu5ppHoOoR) 
+3.[Generación de Tweets como Obama. Language Modelling](https://colab.research.google.com/drive/1N7P3CHWqJuDAPf5UZUNfMctu5ppHoOoR) 
